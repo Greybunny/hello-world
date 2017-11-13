@@ -1,2 +1,3 @@
 # hello-world
-just for a test
+
+This is the first time I using github! 
